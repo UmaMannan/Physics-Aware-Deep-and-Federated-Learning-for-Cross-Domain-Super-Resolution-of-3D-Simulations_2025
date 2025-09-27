@@ -1,0 +1,5 @@
+{
+  "lr_csv": "E:/25 Aug 2025_project/converted_particles_Low/particles_Low_frame010.csv",
+  "out_csv": "E:/25 Aug 2025_project/predict_runs/unified\\pred_csv\\particles_Pred_frame010.csv",
+  "lr_match_metrics": "E:/25 Aug 2025_project/predict_runs/unified\\vis\\lr_match_metrics.json"
+}
